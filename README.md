@@ -1,61 +1,132 @@
+<div align="center">
+
 # ResKyuu
 
-I build websites, small tools, and the occasional very specific thing I wish already existed.
+**Web things, Linux tooling, and projects built to solve oddly specific problems.**
 
-Most of my work sits somewhere between **web development, automation, and VRChat/Linux tooling**. I learn by building real projects, breaking things, and figuring out how to make them less fragile.
+I learn by making things work — then making them cleaner, safer, and easier to maintain.
 
-[Projects](#selected-projects) · [Tools I use](#toolbox) · [AI & authorship](#ai--authorship) · [Contact](#find-me)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ResKyuu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ResKyuu)
+[![Discord](https://img.shields.io/badge/Discord-ResKyuu-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/518195917992624129)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reskyuuotaku@gmail.com)
+
+</div>
 
 ---
 
-## Selected projects
+## What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [LinuxChatBox](https://github.com/ResKyuu/LinuxChatBox)
-A native Linux companion for VRChat that sends music information to the chatbox using MPRIS, D-Bus, and OSC. Built for a setup that doesn't need a Windows compatibility layer.
 
-**Python · Linux · D-Bus/MPRIS · VRChat OSC**
+A native Linux companion for VRChat that sends currently playing music to the chatbox through MPRIS, D-Bus, and OSC. No Windows compatibility layer needed.
 
-### [FewTags patcher for VRCNext](https://github.com/ResKyuu/FewTags-patcher-VRCNext)
-A small compatibility project bringing FewTags into the VRCNext workflow, with automated patcher releases.
+**Python · Linux · D-Bus · OSC**
 
-**Integration work · Release automation · GitHub Actions**
+</td>
+<td width="50%" valign="top">
 
-### [The Odin Project builds](https://github.com/ResKyuu?tab=repositories&q=TOP-)
-A trail of practical exercises and projects: a calculator, library app, to-do list, weather app, restaurant page, tic-tac-toe, and more. Less “hello world,” more learning by finishing things.
+### [FewTags × VRCNext](https://github.com/ResKyuu/FewTags-patcher-VRCNext)
 
-[Browse the repositories](https://github.com/ResKyuu?tab=repositories)
+A compatibility patcher connecting FewTags with VRCNext, with an automated release pipeline to make updates less of a manual chore.
 
----
+**Integration · GitHub Actions · Release automation**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [The Odin Project](https://github.com/ResKyuu?tab=repositories&q=TOP-)
+
+A collection of hands-on web projects: calculator, library, to-do list, weather app, restaurant page, tic-tac-toe, and more.
+
+**HTML · CSS · JavaScript**
+
+</td>
+<td width="50%" valign="top">
+
+### Other experiments
+
+From websites and online-shop work to chat tools and small automation projects, I tend to follow an idea far enough to find out what it actually takes to ship.
+
+[Browse all repositories →](https://github.com/ResKyuu?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ## Toolbox
 
-Tools I’ve used across projects—not a claim that I’m an expert in every item.
+<div align="center">
 
-- **Web:** HTML, CSS, JavaScript, React, Node.js, TypeScript, Next.js
-- **Automation & tooling:** Git, GitHub Actions, shell scripts
-- **Back ends & services:** PostgreSQL, Supabase, Drizzle, Cloudflare R2, Netlify
-- **Linux & VRChat:** Python, D-Bus/MPRIS, OSC
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-I’ve also worked with Java, C++, MySQL, SAP, and IoT-related projects.
+</div>
+
+These are tools I've used across projects, not a claim of equal experience with every one. I've also worked with Java, C++, MySQL, SAP, and IoT-related projects.
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<a href="https://github.com/ResKyuu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ResKyuu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ResKyuu's GitHub statistics" />
+</a>
+<a href="https://github.com/ResKyuu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Most used languages across ResKyuu's public repositories" />
+</a>
+
+<br>
+
+<a href="https://github.com/ResKyuu">
+  <img src="https://streak-stats.demolab.com?user=ResKyuu&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5" alt="GitHub contribution streak" />
+</a>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ResKyuu&bg_color=0d1117&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true" alt="Contribution activity graph" width="98%" />
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable or delayed. Language percentages reflect repository contents, not skill level.</sub>
+
+</div>
 
 ---
 
 ## AI & authorship
 
-AI tools are part of my development workflow, and I want that to be clear rather than imply everything here was typed from scratch.
+AI tools are part of my workflow, and I don't want the profile to imply otherwise.
 
-**Authorship depends on the project.** Some work is AI-assisted; [LinuxChatBox](https://github.com/ResKyuu/LinuxChatBox), for example, is explicitly disclosed in its own README as 100% AI-written. I don't present that project as code I personally authored line by line.
+**Authorship varies by project.** [LinuxChatBox](https://github.com/ResKyuu/LinuxChatBox), for example, is explicitly labelled in its own README as **100% AI-written**; I don't claim to have authored that code line by line. Other projects may involve AI assistance to different degrees, so check each repository's README for its specific disclosure.
 
-For other projects, check the repository README for the relevant disclosure and details. A tool helping produce code isn't the same thing as a guarantee that the code is correct: generated changes still need testing, review, and responsibility from whoever ships them.
-
----
-
-## Find me
-
-- **GitHub:** [@ResKyuu](https://github.com/ResKyuu)
-- **Discord:** [ResKyuu](https://discord.com/users/518195917992624129)
-- **Email:** [reskyuuotaku@gmail.com](mailto:reskyuuotaku@gmail.com)
+AI-generated code isn't automatically correct. Testing, reviewing changes, and being honest about how a project was made still matter.
 
 ---
 
-<sub>Still learning. Still shipping things. Trying to make each project a little better than the last.</sub>
+<div align="center">
+
+**Curious by default. Building to learn.**
+
+[Repositories](https://github.com/ResKyuu?tab=repositories) · [Discord](https://discord.com/users/518195917992624129) · [Email](mailto:reskyuuotaku@gmail.com)
+
+<sub>© ResKyuu · Profile README</sub>
+
+</div>
