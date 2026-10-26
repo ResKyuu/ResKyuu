@@ -1,65 +1,61 @@
-<h1 align="center">Hey👋, I'm ResKyuu</h1>
+# ResKyuu
 
-<p align="center">
-  🌱 Currently learning full-stack web development <br>
-  📚 Focusing on The Odin Project curriculum & Other Projects <br>
-  🎨 Dabble in graphic design & UI experimentation <br>
-</p>
+I build websites, small tools, and the occasional very specific thing I wish already existed.
 
----
+Most of my work sits somewhere between **web development, automation, and VRChat/Linux tooling**. I learn by building real projects, breaking things, and figuring out how to make them less fragile.
 
-### 💻 About Me
-I'm a self-taught full-stack web developer who currently specializes in modern Front-End Web Applications.  
-Currently learning and building projects using:
-
-- HTML, CSS, JavaScript
-- React.js & Node.js
-- Git & GitHub for version control
-
-My goal is to master both front-end and back-end development and eventually contribute to open source projects.
+[Projects](#selected-projects) · [Tools I use](#toolbox) · [AI & authorship](#ai--authorship) · [Contact](#find-me)
 
 ---
 
-### 🛠️ Technologies & Tools I Currently Use
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
+## Selected projects
+
+### [LinuxChatBox](https://github.com/ResKyuu/LinuxChatBox)
+A native Linux companion for VRChat that sends music information to the chatbox using MPRIS, D-Bus, and OSC. Built for a setup that doesn't need a Windows compatibility layer.
+
+**Python · Linux · D-Bus/MPRIS · VRChat OSC**
+
+### [FewTags patcher for VRCNext](https://github.com/ResKyuu/FewTags-patcher-VRCNext)
+A small compatibility project bringing FewTags into the VRCNext workflow, with automated patcher releases.
+
+**Integration work · Release automation · GitHub Actions**
+
+### [The Odin Project builds](https://github.com/ResKyuu?tab=repositories&q=TOP-)
+A trail of practical exercises and projects: a calculator, library app, to-do list, weather app, restaurant page, tic-tac-toe, and more. Less “hello world,” more learning by finishing things.
+
+[Browse the repositories](https://github.com/ResKyuu?tab=repositories)
 
 ---
 
-### 🔧 Technologies & Tools I Have Used in the Past
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=raspberrypi&logoColor=white"/>
-</p>
+## Toolbox
+
+Tools I’ve used across projects—not a claim that I’m an expert in every item.
+
+- **Web:** HTML, CSS, JavaScript, React, Node.js, TypeScript, Next.js
+- **Automation & tooling:** Git, GitHub Actions, shell scripts
+- **Back ends & services:** PostgreSQL, Supabase, Drizzle, Cloudflare R2, Netlify
+- **Linux & VRChat:** Python, D-Bus/MPRIS, OSC
+
+I’ve also worked with Java, C++, MySQL, SAP, and IoT-related projects.
 
 ---
 
-### 📬 Connect With Me
-<p>
-  <a href="mailto:reskyuuotaku@gmail.com">
-    <img src="https://img.shields.io/badge/reskyuuotaku@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/518195917992624129">
-    <img src="https://img.shields.io/badge/reskyuu-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+## AI & authorship
+
+AI tools are part of my development workflow, and I want that to be clear rather than imply everything here was typed from scratch.
+
+**Authorship depends on the project.** Some work is AI-assisted; [LinuxChatBox](https://github.com/ResKyuu/LinuxChatBox), for example, is explicitly disclosed in its own README as 100% AI-written. I don't present that project as code I personally authored line by line.
+
+For other projects, check the repository README for the relevant disclosure and details. A tool helping produce code isn't the same thing as a guarantee that the code is correct: generated changes still need testing, review, and responsibility from whoever ships them.
 
 ---
 
-### 📊 GitHub Stats
+## Find me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ResKyuu&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+- **GitHub:** [@ResKyuu](https://github.com/ResKyuu)
+- **Discord:** [ResKyuu](https://discord.com/users/518195917992624129)
+- **Email:** [reskyuuotaku@gmail.com](mailto:reskyuuotaku@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+<sub>Still learning. Still shipping things. Trying to make each project a little better than the last.</sub>
