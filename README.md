@@ -92,7 +92,7 @@ These are tools I've used across projects, not a claim of equal experience with 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=ResKyuu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ResKyuu's GitHub statistics" />
 </a>
 <a href="https://github.com/ResKyuu">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Most used languages across ResKyuu's public repositories" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&card_width=400" alt="Most used languages across ResKyuu's public repositories" />
 </a>
 
 <br>
