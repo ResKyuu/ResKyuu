@@ -88,32 +88,38 @@ These are tools I've used across projects, not a claim of equal experience with 
 
 <div align="center">
 
-<a href="https://github.com/ResKyuu">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ResKyuu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ResKyuu's GitHub statistics" />
-</a>
-<a href="https://github.com/ResKyuu">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&card_width=400" alt="Most used languages across ResKyuu's public repositories" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ResKyuu">
+        <img src="https://github-stats-extended.vercel.app/api?username=ResKyuu&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ResKyuu's GitHub statistics" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ResKyuu">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ResKyuu&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&card_width=400" alt="Most used languages across ResKyuu's public repositories" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <a href="https://github.com/ResKyuu">
-  <img src="https://streak-stats.demolab.com?user=ResKyuu&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=ResKyuu&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5" alt="GitHub contribution streak" width="70%" />
 </a>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-30d.svg" alt="GitHub contribution activity over the last 30 days" width="98%" />
+<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-30d.svg" alt="GitHub contribution activity over the last 30 days" width="100%" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-90d.svg" alt="GitHub contribution activity over the last 90 days" width="98%" />
+<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-90d.svg" alt="GitHub contribution activity over the last 90 days" width="100%" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-365d.svg" alt="GitHub contribution activity over the last 365 days" width="98%" />
-
-
+<img src="https://raw.githubusercontent.com/ResKyuu/ResKyuu/activity-assets/activity-365d.svg" alt="GitHub contribution activity over the last 365 days" width="100%" />
 
 </div>
 
